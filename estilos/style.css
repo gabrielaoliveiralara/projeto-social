@@ -34,3 +34,9 @@ section#telefone {
     background: url('../pacote-d013/imagens/frame-iphone.png') no-repeat;
 
 }
+
+iframe#idtela {
+    position: relative;
+    top: 50px;
+    left: 50px;
+}
